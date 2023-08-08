@@ -62,7 +62,7 @@ export const left = [
     img: "emotional",
   },
   {
-    text: "Facebook Pay",
+    text: "TechConnect Pay",
     img: "pay",
   },
   {
